@@ -47,7 +47,7 @@ NY-Housing-ML-Prediction-Model/
 1. **Clone the repository**
    ```bash
    git clone https://github.com/lugmanabdi/NY-Housing-ML-Prediction-Model.git
-   cd "NY Housing ML Prediction Model/NYC-Housing-ML-Prediction"
+   cd "NY Housing ML Prediction Model"
    ```
 
 2. **Install required packages**
