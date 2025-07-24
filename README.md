@@ -33,13 +33,13 @@ This project predicts NYC real estate prices based on property characteristics a
 ## Project Structure
 
 ```
-NY Housing ML Prediction Model/
-├── README.md                          # Project documentation
-└── NYC-Housing-ML-Prediction/         # Main project folder
-    ├── app.py                         # Streamlit web application
-    ├── model.pkl                      # Trained Random Forest model
-    ├── NYHouseDataset.csv            # Raw dataset
-    └── notebook.ipynb               # Jupyter notebook with model development
+NY-Housing-ML-Prediction-Model/
+├── README.md                                    # Project documentation
+└── NY Housing ML Prediction Model/             # Main project folder
+    ├── app.py                              # Streamlit web application
+    ├── model.pkl                           # Trained Random Forest model
+    ├── NYHouseDataset.csv                  # Raw dataset
+    └── notebook.ipynb                      # Jupyter notebook with model development
 ```
 
 ## Installation & Setup
